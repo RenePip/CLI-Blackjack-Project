@@ -51,6 +51,7 @@ public class BlackjackGame {
                 game1.displayPlayer();
                 game1.turnLoop();
 
+//<<<<<<< HEAD
             }
             if (game1.isEndGame() == true) {
                 System.out.println("FINAL HANDS");
@@ -180,3 +181,6 @@ public class BlackjackGame {
 
 
 
+//=======
+//}Rene has a big head
+//>>>>>>> 8d80f46917a6f18a90058231844fef539e58855e
